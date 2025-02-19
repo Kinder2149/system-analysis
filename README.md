@@ -59,4 +59,16 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📝 Licence
 
+
+# Créer un fichier LICENSE (MIT License par exemple)
+echo "MIT License
+
+Copyright (c) 2025 Kinder2149
+
+Permission is hereby granted, free of charge, to any person obtaining a copy..." > LICENSE
+
+git add LICENSE
+git commit -m "Add MIT License"
+git push
+
 Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
