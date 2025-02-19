@@ -1,0 +1,2 @@
+Memory total: 15.93GB
+Memory used: 11.18GB

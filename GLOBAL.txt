@@ -1,0 +1,802 @@
+
+Name                                            NumberOfCores NumberOfLogicalProcessors
+----                                            ------------- -------------------------
+AMD Ryzen 5 1600X Six-Core Processor                        6                        12
+
+
+
+LoadPercentage
+--------------
+             5
+
+
+
+
+WindowsBuildLabEx                                       : 19041.1.amd64fre.vb_release.191206-1406
+WindowsCurrentVersion                                   : 6.3
+WindowsEditionId                                        : Core
+WindowsInstallationType                                 : Client
+WindowsInstallDateFromRegistry                          : 19/01/2025 10:32:43
+WindowsProductId                                        : 00326-10000-00000-AA765
+WindowsProductName                                      : Windows 10 Home
+WindowsRegisteredOrganization                           : 
+WindowsRegisteredOwner                                  : vcoutry@outlook.fr
+WindowsSystemRoot                                       : C:\Windows
+WindowsVersion                                          : 2009
+BiosCharacteristics                                     : {7, 11, 12, 15...}
+BiosBIOSVersion                                         : {ALASKA - 1072009, F51g, American Megatrends - 50011}
+BiosBuildNumber                                         : 
+BiosCaption                                             : F51g
+BiosCodeSet                                             : 
+BiosCurrentLanguage                                     : fr|FR|iso8859-1
+BiosDescription                                         : F51g
+BiosEmbeddedControllerMajorVersion                      : 255
+BiosEmbeddedControllerMinorVersion                      : 255
+BiosFirmwareType                                        : Uefi
+BiosIdentificationCode                                  : 
+BiosInstallableLanguages                                : 15
+BiosInstallDate                                         : 
+BiosLanguageEdition                                     : 
+BiosListOfLanguages                                     : {en|US|iso8859-1, zh|TW|unicode, zh|CN|unicode, ru|RU|iso8859-5...}
+BiosManufacturer                                        : American Megatrends International, LLC.
+BiosName                                                : F51g
+BiosOtherTargetOS                                       : 
+BiosPrimaryBIOS                                         : True
+BiosReleaseDate                                         : 29/07/2022 02:00:00
+BiosSeralNumber                                         : Default string
+BiosSMBIOSBIOSVersion                                   : F51g
+BiosSMBIOSMajorVersion                                  : 3
+BiosSMBIOSMinorVersion                                  : 3
+BiosSMBIOSPresent                                       : True
+BiosSoftwareElementState                                : Running
+BiosStatus                                              : OK
+BiosSystemBiosMajorVersion                              : 5
+BiosSystemBiosMinorVersion                              : 17
+BiosTargetOperatingSystem                               : 0
+BiosVersion                                             : ALASKA - 1072009
+CsAdminPasswordStatus                                   : Unknown
+CsAutomaticManagedPagefile                              : False
+CsAutomaticResetBootOption                              : True
+CsAutomaticResetCapability                              : True
+CsBootOptionOnLimit                                     : 
+CsBootOptionOnWatchDog                                  : 
+CsBootROMSupported                                      : True
+CsBootStatus                                            : {0, 0, 0, 0...}
+CsBootupState                                           : Normal boot
+CsCaption                                               : DESKTOP-59T45UG
+CsChassisBootupState                                    : Safe
+CsChassisSKUNumber                                      : Default string
+CsCurrentTimeZone                                       : 60
+CsDaylightInEffect                                      : False
+CsDescription                                           : AT/AT COMPATIBLE
+CsDNSHostName                                           : DESKTOP-59T45UG
+CsDomain                                                : WORKGROUP
+CsDomainRole                                            : StandaloneWorkstation
+CsEnableDaylightSavingsTime                             : True
+CsFrontPanelResetStatus                                 : Unknown
+CsHypervisorPresent                                     : False
+CsInfraredSupported                                     : False
+CsInitialLoadInfo                                       : 
+CsInstallDate                                           : 
+CsKeyboardPasswordStatus                                : Unknown
+CsLastLoadInfo                                          : 
+CsManufacturer                                          : Gigabyte Technology Co., Ltd.
+CsModel                                                 : AB350-Gaming
+CsName                                                  : DESKTOP-59T45UG
+CsNetworkAdapters                                       : {Ethernet, Connexion réseau Bluetooth}
+CsNetworkServerModeEnabled                              : True
+CsNumberOfLogicalProcessors                             : 12
+CsNumberOfProcessors                                    : 1
+CsProcessors                                            : {AMD Ryzen 5 1600X Six-Core Processor           }
+CsOEMStringArray                                        : {Default string}
+CsPartOfDomain                                          : False
+CsPauseAfterReset                                       : -1
+CsPCSystemType                                          : Desktop
+CsPCSystemTypeEx                                        : Desktop
+CsPowerManagementCapabilities                           : 
+CsPowerManagementSupported                              : 
+CsPowerOnPasswordStatus                                 : Unknown
+CsPowerState                                            : Unknown
+CsPowerSupplyState                                      : Safe
+CsPrimaryOwnerContact                                   : 
+CsPrimaryOwnerName                                      : vcoutry@outlook.fr
+CsResetCapability                                       : Other
+CsResetCount                                            : -1
+CsResetLimit                                            : -1
+CsRoles                                                 : {LM_Workstation, LM_Server, NT}
+CsStatus                                                : OK
+CsSupportContactDescription                             : 
+CsSystemFamily                                          : Default string
+CsSystemSKUNumber                                       : Default string
+CsSystemType                                            : x64-based PC
+CsThermalState                                          : Safe
+CsTotalPhysicalMemory                                   : 17100771328
+CsPhyicallyInstalledMemory                              : 16777216
+CsUserName                                              : DESKTOP-59T45UG\vcout
+CsWakeUpType                                            : PowerSwitch
+CsWorkgroup                                             : WORKGROUP
+OsName                                                  : Microsoft Windows 10 Famille
+OsType                                                  : WINNT
+OsOperatingSystemSKU                                    : WindowsHome
+OsVersion                                               : 10.0.19045
+OsCSDVersion                                            : 
+OsBuildNumber                                           : 19045
+OsHotFixes                                              : {KB5049621, KB5049613, KB4562830, KB4570334...}
+OsBootDevice                                            : \Device\HarddiskVolume1
+OsSystemDevice                                          : \Device\HarddiskVolume3
+OsSystemDirectory                                       : C:\Windows\system32
+OsSystemDrive                                           : C:
+OsWindowsDirectory                                      : C:\Windows
+OsCountryCode                                           : 33
+OsCurrentTimeZone                                       : 60
+OsLocaleID                                              : 040c
+OsLocale                                                : fr-FR
+OsLocalDateTime                                         : 19/02/2025 12:43:01
+OsLastBootUpTime                                        : 14/02/2025 09:18:50
+OsUptime                                                : 5.03:24:10.9122015
+OsBuildType                                             : Multiprocessor Free
+OsCodeSet                                               : 1252
+OsDataExecutionPreventionAvailable                      : True
+OsDataExecutionPrevention32BitApplications              : True
+OsDataExecutionPreventionDrivers                        : True
+OsDataExecutionPreventionSupportPolicy                  : OptIn
+OsDebug                                                 : False
+OsDistributed                                           : False
+OsEncryptionLevel                                       : 256
+OsForegroundApplicationBoost                            : Maximum
+OsTotalVisibleMemorySize                                : 16699972
+OsFreePhysicalMemory                                    : 5117988
+OsTotalVirtualMemorySize                                : 57856580
+OsFreeVirtualMemory                                     : 39661600
+OsInUseVirtualMemory                                    : 18194980
+OsTotalSwapSpaceSize                                    : 
+OsSizeStoredInPagingFiles                               : 41156608
+OsFreeSpaceInPagingFiles                                : 40415536
+OsPagingFiles                                           : {C:\pagefile.sys, D:\pagefile.sys}
+OsHardwareAbstractionLayer                              : 10.0.19041.5072
+OsInstallDate                                           : 19/01/2025 11:32:43
+OsManufacturer                                          : Microsoft Corporation
+OsMaxNumberOfProcesses                                  : 4294967295
+OsMaxProcessMemorySize                                  : 137438953344
+OsMuiLanguages                                          : {fr-FR}
+OsNumberOfLicensedUsers                                 : 0
+OsNumberOfProcesses                                     : 219
+OsNumberOfUsers                                         : 2
+OsOrganization                                          : 
+OsArchitecture                                          : 64 bits
+OsLanguage                                              : fr-FR
+OsProductSuites                                         : {TerminalServicesSingleSession, HomeEdition}
+OsOtherTypeDescription                                  : 
+OsPAEEnabled                                            : 
+OsPortableOperatingSystem                               : False
+OsPrimary                                               : True
+OsProductType                                           : WorkStation
+OsRegisteredUser                                        : vcoutry@outlook.fr
+OsSerialNumber                                          : 00326-10000-00000-AA765
+OsServicePackMajorVersion                               : 0
+OsServicePackMinorVersion                               : 0
+OsStatus                                                : OK
+OsSuites                                                : {TerminalServices, TerminalServicesSingleSession, HomeEdition}
+OsServerLevel                                           : 
+KeyboardLayout                                          : fr-FR
+TimeZone                                                : (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+LogonServer                                             : \\DESKTOP-59T45UG
+PowerPlatformRole                                       : Desktop
+HyperVisorPresent                                       : False
+HyperVRequirementDataExecutionPreventionAvailable       : True
+HyperVRequirementSecondLevelAddressTranslation          : True
+HyperVRequirementVirtualizationFirmwareEnabled          : True
+HyperVRequirementVMMonitorModeExtensions                : True
+DeviceGuardSmartStatus                                  : Off
+DeviceGuardRequiredSecurityProperties                   : 
+DeviceGuardAvailableSecurityProperties                  : 
+DeviceGuardSecurityServicesConfigured                   : 
+DeviceGuardSecurityServicesRunning                      : 
+DeviceGuardCodeIntegrityPolicyEnforcementStatus         : 
+DeviceGuardUserModeCodeIntegrityPolicyEnforcementStatus : 
+
+
+Le type du système de fichiers est NTFS.
+
+AVERTISSEMENT ! Le paramètre /F n'a pas été spécifié.
+Exécution de CHKDSK en mode lecture seule.
+
+Étape 1 : Examen de la structure du système de fichiers de base...
+État d'avancement : 0 de 1168384 effectué(s) ; Étape :  0% ; Total :  0% ; Heure de fin reste :   0:56:10    
+État d'avancement : 22428 de 1168384 effectué(s) ; Étape :  1% ; Total :  0% ; Heure de fin reste :   0:55:47 .  
+État d'avancement : 50769 de 1168384 effectué(s) ; Étape :  4% ; Total :  1% ; Heure de fin reste :   0:55:16 .. 
+État d'avancement : 81029 de 1168384 effectué(s) ; Étape :  6% ; Total :  2% ; Heure de fin reste :   0:00:54 ...
+État d'avancement : 103681 de 1168384 effectué(s) ; Étape :  8% ; Total :  3% ; Heure de fin reste :   0:00:55    
+État d'avancement : 147882 de 1168384 effectué(s) ; Étape : 12% ; Total :  4% ; Heure de fin reste :   0:00:51 .  
+État d'avancement : 198145 de 1168384 effectué(s) ; Étape : 16% ; Total :  6% ; Heure de fin reste :   0:00:46 .. 
+État d'avancement : 244481 de 1168384 effectué(s) ; Étape : 20% ; Total :  7% ; Heure de fin reste :   0:00:43 ...
+État d'avancement : 281639 de 1168384 effectué(s) ; Étape : 24% ; Total :  8% ; Heure de fin reste :   0:00:41    
+État d'avancement : 318662 de 1168384 effectué(s) ; Étape : 27% ; Total :  9% ; Heure de fin reste :   0:00:39 .  
+État d'avancement : 361774 de 1168384 effectué(s) ; Étape : 30% ; Total : 11% ; Heure de fin reste :   0:00:39 .. 
+État d'avancement : 409601 de 1168384 effectué(s) ; Étape : 35% ; Total : 12% ; Heure de fin reste :   0:00:38 ...
+État d'avancement : 455425 de 1168384 effectué(s) ; Étape : 38% ; Total : 13% ; Heure de fin reste :   0:00:36    
+État d'avancement : 505345 de 1168384 effectué(s) ; Étape : 43% ; Total : 15% ; Heure de fin reste :   0:00:35 .  
+État d'avancement : 554497 de 1168384 effectué(s) ; Étape : 47% ; Total : 16% ; Heure de fin reste :   0:00:35 .. 
+État d'avancement : 597581 de 1168384 effectué(s) ; Étape : 51% ; Total : 18% ; Heure de fin reste :   0:00:33 ...
+État d'avancement : 637185 de 1168384 effectué(s) ; Étape : 54% ; Total : 19% ; Heure de fin reste :   0:00:33    
+État d'avancement : 676097 de 1168384 effectué(s) ; Étape : 57% ; Total : 20% ; Heure de fin reste :   0:00:33 .  
+État d'avancement : 728188 de 1168384 effectué(s) ; Étape : 62% ; Total : 21% ; Heure de fin reste :   0:00:31 .. 
+État d'avancement : 778884 de 1168384 effectué(s) ; Étape : 66% ; Total : 23% ; Heure de fin reste :   0:00:31 ...
+État d'avancement : 826335 de 1168384 effectué(s) ; Étape : 70% ; Total : 24% ; Heure de fin reste :   0:00:30    
+État d'avancement : 892161 de 1168384 effectué(s) ; Étape : 76% ; Total : 26% ; Heure de fin reste :   0:00:28 .  
+État d'avancement : 938753 de 1168384 effectué(s) ; Étape : 80% ; Total : 28% ; Heure de fin reste :   0:00:28 .. 
+État d'avancement : 990615 de 1168384 effectué(s) ; Étape : 84% ; Total : 29% ; Heure de fin reste :   0:00:28 ...
+État d'avancement : 1044977 de 1168384 effectué(s) ; Étape : 89% ; Total : 31% ; Heure de fin reste :   0:00:27    
+État d'avancement : 1091329 de 1168384 effectué(s) ; Étape : 93% ; Total : 32% ; Heure de fin reste :   0:00:27 .  
+État d'avancement : 1140481 de 1168384 effectué(s) ; Étape : 97% ; Total : 33% ; Heure de fin reste :   0:00:25 .. 
+État d'avancement : 1168384 de 1168384 effectué(s) ; Étape : 100% ; Total : 34% ; Heure de fin reste :   0:00:25 ...
+                                                                                       
+                                                                                       
+  1168384 enregistrements de fichier traités.                                                
+
+La vérification des fichiers est terminée.
+ Durée de la phase (Vérification des enregistrements de fichiers) : 12.43 secondes.
+État d'avancement : 12227 de 12227 effectué(s) ; Étape : 100% ; Total : 24% ; Heure de fin reste :   0:00:38    
+                                                                                       
+                                                                                       
+  12227 enregistrements de grand fichier traités.                       
+
+ Durée de la phase (Récupération des enregistrements de fichiers orphelins) : 0.00 millisecondes.
+État d'avancement : 0 de 0 effectué(s) ; Étape : 99% ; Total : 24% ; Heure de fin reste :   0:00:38 .  
+                                                                                       
+                                                                                       
+  0 enregistrements de fichier incorrect traités.                   
+
+ Durée de la phase (Vérification des enregistrements de fichiers incorrects) : 0.03 millisecondes.
+
+Étape 2 : Examen de la liaison des noms de fichiers...
+État d'avancement : 31044 de 1670018 effectué(s) ; Étape :  1% ; Total : 25% ; Heure de fin reste :   0:00:38 .. 
+État d'avancement : 109482 de 1670018 effectué(s) ; Étape :  6% ; Total : 27% ; Heure de fin reste :   0:00:38 ...
+État d'avancement : 181227 de 1670018 effectué(s) ; Étape : 10% ; Total : 28% ; Heure de fin reste :   0:00:36    
+État d'avancement : 255885 de 1670018 effectué(s) ; Étape : 15% ; Total : 30% ; Heure de fin reste :   0:00:35 .  
+État d'avancement : 327293 de 1670018 effectué(s) ; Étape : 19% ; Total : 31% ; Heure de fin reste :   0:00:33 .. 
+État d'avancement : 400653 de 1670018 effectué(s) ; Étape : 23% ; Total : 33% ; Heure de fin reste :   0:00:31 ...
+État d'avancement : 474177 de 1670018 effectué(s) ; Étape : 28% ; Total : 34% ; Heure de fin reste :   0:00:31    
+État d'avancement : 550128 de 1670018 effectué(s) ; Étape : 32% ; Total : 36% ; Heure de fin reste :   0:00:30 .  
+État d'avancement : 623785 de 1670018 effectué(s) ; Étape : 37% ; Total : 38% ; Heure de fin reste :   0:00:28 .. 
+État d'avancement : 706141 de 1670018 effectué(s) ; Étape : 42% ; Total : 39% ; Heure de fin reste :   0:00:27 ...
+État d'avancement : 783610 de 1670018 effectué(s) ; Étape : 46% ; Total : 41% ; Heure de fin reste :   0:00:27    
+État d'avancement : 893087 de 1670018 effectué(s) ; Étape : 53% ; Total : 43% ; Heure de fin reste :   0:00:25 .  
+État d'avancement : 968608 de 1670018 effectué(s) ; Étape : 57% ; Total : 45% ; Heure de fin reste :   0:00:23 .. 
+État d'avancement : 1045084 de 1670018 effectué(s) ; Étape : 62% ; Total : 46% ; Heure de fin reste :   0:00:23 ...
+État d'avancement : 1118701 de 1670018 effectué(s) ; Étape : 66% ; Total : 48% ; Heure de fin reste :   0:00:22    
+État d'avancement : 274 de 274 effectué(s) ; Étape : 100% ; Total : 49% ; Heure de fin reste :   0:00:22 .  
+                                                                                       
+                                                                                       
+  274 enregistrements d'analyse traités.                              
+
+État d'avancement : 1168939 de 1670018 effectué(s) ; Étape : 69% ; Total : 49% ; Heure de fin reste :   0:00:22 .. 
+État d'avancement : 1172497 de 1670018 effectué(s) ; Étape : 70% ; Total : 50% ; Heure de fin reste :   0:00:22 ...
+État d'avancement : 1174801 de 1670018 effectué(s) ; Étape : 70% ; Total : 51% ; Heure de fin reste :   0:00:20    
+État d'avancement : 1178000 de 1670018 effectué(s) ; Étape : 70% ; Total : 51% ; Heure de fin reste :   0:00:20 .  
+État d'avancement : 1181731 de 1670018 effectué(s) ; Étape : 70% ; Total : 51% ; Heure de fin reste :   0:00:20 .. 
+État d'avancement : 1184680 de 1670018 effectué(s) ; Étape : 70% ; Total : 51% ; Heure de fin reste :   0:00:20 ...
+État d'avancement : 1186782 de 1670018 effectué(s) ; Étape : 71% ; Total : 53% ; Heure de fin reste :   0:00:20    
+État d'avancement : 1191059 de 1670018 effectué(s) ; Étape : 71% ; Total : 53% ; Heure de fin reste :   0:00:20 .  
+État d'avancement : 1194672 de 1670018 effectué(s) ; Étape : 71% ; Total : 53% ; Heure de fin reste :   0:00:20 .. 
+État d'avancement : 1197604 de 1670018 effectué(s) ; Étape : 71% ; Total : 53% ; Heure de fin reste :   0:00:20 ...
+État d'avancement : 1199671 de 1670018 effectué(s) ; Étape : 71% ; Total : 54% ; Heure de fin reste :   0:00:20    
+État d'avancement : 1200650 de 1670018 effectué(s) ; Étape : 71% ; Total : 57% ; Heure de fin reste :   0:00:20 .  
+État d'avancement : 1201334 de 1670018 effectué(s) ; Étape : 71% ; Total : 57% ; Heure de fin reste :   0:00:20 .. 
+État d'avancement : 1217311 de 1670018 effectué(s) ; Étape : 72% ; Total : 58% ; Heure de fin reste :   0:00:20 ...
+État d'avancement : 1233138 de 1670018 effectué(s) ; Étape : 73% ; Total : 58% ; Heure de fin reste :   0:00:20    
+État d'avancement : 1236512 de 1670018 effectué(s) ; Étape : 74% ; Total : 58% ; Heure de fin reste :   0:00:20 .  
+État d'avancement : 1250020 de 1670018 effectué(s) ; Étape : 74% ; Total : 59% ; Heure de fin reste :   0:00:20 .. 
+État d'avancement : 1253796 de 1670018 effectué(s) ; Étape : 75% ; Total : 60% ; Heure de fin reste :   0:00:20 ...
+État d'avancement : 1255827 de 1670018 effectué(s) ; Étape : 75% ; Total : 60% ; Heure de fin reste :   0:00:20    
+État d'avancement : 1256880 de 1670018 effectué(s) ; Étape : 75% ; Total : 60% ; Heure de fin reste :   0:00:20 .  
+État d'avancement : 1257934 de 1670018 effectué(s) ; Étape : 75% ; Total : 60% ; Heure de fin reste :   0:00:20 .. 
+État d'avancement : 1259605 de 1670018 effectué(s) ; Étape : 75% ; Total : 61% ; Heure de fin reste :   0:00:20 ...
+État d'avancement : 1261228 de 1670018 effectué(s) ; Étape : 75% ; Total : 61% ; Heure de fin reste :   0:00:20    
+État d'avancement : 1265592 de 1670018 effectué(s) ; Étape : 75% ; Total : 62% ; Heure de fin reste :   0:00:20 .  
+État d'avancement : 1268782 de 1670018 effectué(s) ; Étape : 75% ; Total : 62% ; Heure de fin reste :   0:00:20 .. 
+État d'avancement : 1270095 de 1670018 effectué(s) ; Étape : 76% ; Total : 62% ; Heure de fin reste :   0:00:20 ...
+État d'avancement : 1272292 de 1670018 effectué(s) ; Étape : 76% ; Total : 63% ; Heure de fin reste :   0:00:20    
+État d'avancement : 1272985 de 1670018 effectué(s) ; Étape : 76% ; Total : 64% ; Heure de fin reste :   0:00:20 .  
+État d'avancement : 1273098 de 1670018 effectué(s) ; Étape : 76% ; Total : 65% ; Heure de fin reste :   0:00:19 .. 
+État d'avancement : 1273655 de 1670018 effectué(s) ; Étape : 76% ; Total : 66% ; Heure de fin reste :   0:00:19 ...
+État d'avancement : 1275659 de 1670018 effectué(s) ; Étape : 76% ; Total : 66% ; Heure de fin reste :   0:00:19    
+État d'avancement : 1278350 de 1670018 effectué(s) ; Étape : 76% ; Total : 68% ; Heure de fin reste :   0:00:19 .  
+État d'avancement : 1284890 de 1670018 effectué(s) ; Étape : 76% ; Total : 69% ; Heure de fin reste :   0:00:17 .. 
+État d'avancement : 1291642 de 1670018 effectué(s) ; Étape : 77% ; Total : 69% ; Heure de fin reste :   0:00:17 ...
+État d'avancement : 1295281 de 1670018 effectué(s) ; Étape : 77% ; Total : 70% ; Heure de fin reste :   0:00:16    
+État d'avancement : 1297182 de 1670018 effectué(s) ; Étape : 77% ; Total : 70% ; Heure de fin reste :   0:00:15 .  
+État d'avancement : 1299788 de 1670018 effectué(s) ; Étape : 77% ; Total : 71% ; Heure de fin reste :   0:00:15 .. 
+État d'avancement : 1300710 de 1670018 effectué(s) ; Étape : 77% ; Total : 71% ; Heure de fin reste :   0:00:15 ...
+État d'avancement : 1302085 de 1670018 effectué(s) ; Étape : 77% ; Total : 71% ; Heure de fin reste :   0:00:15    
+État d'avancement : 1304364 de 1670018 effectué(s) ; Étape : 78% ; Total : 71% ; Heure de fin reste :   0:00:15 .  
+État d'avancement : 1306719 de 1670018 effectué(s) ; Étape : 78% ; Total : 72% ; Heure de fin reste :   0:00:15 .. 
+État d'avancement : 1308363 de 1670018 effectué(s) ; Étape : 78% ; Total : 72% ; Heure de fin reste :   0:00:15 ...
+État d'avancement : 1310936 de 1670018 effectué(s) ; Étape : 78% ; Total : 72% ; Heure de fin reste :   0:00:15    
+État d'avancement : 1313349 de 1670018 effectué(s) ; Étape : 78% ; Total : 72% ; Heure de fin reste :   0:00:15 .  
+État d'avancement : 1315683 de 1670018 effectué(s) ; Étape : 78% ; Total : 73% ; Heure de fin reste :   0:00:15 .. 
+État d'avancement : 1321042 de 1670018 effectué(s) ; Étape : 79% ; Total : 73% ; Heure de fin reste :   0:00:15 ...
+État d'avancement : 1322189 de 1670018 effectué(s) ; Étape : 79% ; Total : 73% ; Heure de fin reste :   0:00:15    
+État d'avancement : 1323036 de 1670018 effectué(s) ; Étape : 79% ; Total : 73% ; Heure de fin reste :   0:00:15 .  
+État d'avancement : 1324086 de 1670018 effectué(s) ; Étape : 79% ; Total : 73% ; Heure de fin reste :   0:00:15 .. 
+État d'avancement : 1326872 de 1670018 effectué(s) ; Étape : 79% ; Total : 73% ; Heure de fin reste :   0:00:15 ...
+État d'avancement : 1328062 de 1670018 effectué(s) ; Étape : 79% ; Total : 74% ; Heure de fin reste :   0:00:15    
+État d'avancement : 1329993 de 1670018 effectué(s) ; Étape : 79% ; Total : 74% ; Heure de fin reste :   0:00:16 .  
+État d'avancement : 1331046 de 1670018 effectué(s) ; Étape : 79% ; Total : 74% ; Heure de fin reste :   0:00:16 .. 
+État d'avancement : 1332142 de 1670018 effectué(s) ; Étape : 79% ; Total : 74% ; Heure de fin reste :   0:00:16 ...
+État d'avancement : 1334572 de 1670018 effectué(s) ; Étape : 79% ; Total : 74% ; Heure de fin reste :   0:00:15    
+État d'avancement : 1336197 de 1670018 effectué(s) ; Étape : 80% ; Total : 75% ; Heure de fin reste :   0:00:15 .  
+État d'avancement : 1336806 de 1670018 effectué(s) ; Étape : 80% ; Total : 76% ; Heure de fin reste :   0:00:15 .. 
+État d'avancement : 1337165 de 1670018 effectué(s) ; Étape : 80% ; Total : 76% ; Heure de fin reste :   0:00:15 ...
+État d'avancement : 1343634 de 1670018 effectué(s) ; Étape : 80% ; Total : 77% ; Heure de fin reste :   0:00:15    
+État d'avancement : 1364136 de 1670018 effectué(s) ; Étape : 81% ; Total : 77% ; Heure de fin reste :   0:00:15 .  
+État d'avancement : 1372426 de 1670018 effectué(s) ; Étape : 82% ; Total : 78% ; Heure de fin reste :   0:00:14 .. 
+État d'avancement : 1381713 de 1670018 effectué(s) ; Étape : 82% ; Total : 78% ; Heure de fin reste :   0:00:14 ...
+État d'avancement : 1390340 de 1670018 effectué(s) ; Étape : 83% ; Total : 78% ; Heure de fin reste :   0:00:14    
+État d'avancement : 1393190 de 1670018 effectué(s) ; Étape : 83% ; Total : 78% ; Heure de fin reste :   0:00:14 .  
+État d'avancement : 1394857 de 1670018 effectué(s) ; Étape : 83% ; Total : 79% ; Heure de fin reste :   0:00:14 .. 
+État d'avancement : 1395941 de 1670018 effectué(s) ; Étape : 83% ; Total : 79% ; Heure de fin reste :   0:00:14 ...
+État d'avancement : 1397302 de 1670018 effectué(s) ; Étape : 83% ; Total : 78% ; Heure de fin reste :   0:00:14    
+État d'avancement : 1401060 de 1670018 effectué(s) ; Étape : 83% ; Total : 78% ; Heure de fin reste :   0:00:14 .  
+État d'avancement : 1410324 de 1670018 effectué(s) ; Étape : 84% ; Total : 78% ; Heure de fin reste :   0:00:14 .. 
+État d'avancement : 1411784 de 1670018 effectué(s) ; Étape : 84% ; Total : 79% ; Heure de fin reste :   0:00:14 ...
+État d'avancement : 1413740 de 1670018 effectué(s) ; Étape : 84% ; Total : 79% ; Heure de fin reste :   0:00:14    
+État d'avancement : 1670018 de 1670018 effectué(s) ; Étape : 100% ; Total : 79% ; Heure de fin reste :   0:00:14 .  
+                                                                                       
+                                                                                       
+  1670018 entrées d'index traitées.                                                               
+
+La vérification des index est terminée.
+ Durée de la phase (Vérification de l'index) : 43.76 secondes.
+État d'avancement : 1 de 0 effectué(s) ; Étape : 99% ; Total : 79% ; Heure de fin reste :   0:00:14 .. 
+État d'avancement : 0 de 0 effectué(s) ; Étape : 99% ; Total : 79% ; Heure de fin reste :   0:00:14 ...
+                                                                                       
+                                                                                       
+  0 fichiers non indexés analysés.                                   
+
+ Durée de la phase (Reconnexion orpheline) : 15.32 secondes.
+État d'avancement : 0 de 0 effectué(s) ; Étape : 99% ; Total : 79% ; Heure de fin reste :   0:00:15    
+                                                                                       
+                                                                                       
+  0 fichiers non indexés récupérés dans le répertoire des fichiers perdus et trouvés.                                      
+
+ Durée de la phase (Récupération orpheline vers éléments perdus et trouvés) : 0.04 millisecondes.
+État d'avancement : 274 de 274 effectué(s) ; Étape : 100% ; Total : 79% ; Heure de fin reste :   0:00:15 .  
+                                                                                       
+                                                                                       
+  274 enregistrements d'analyse traités.                              
+
+ Durée de la phase (Vérification de l'ID d'objet et du point de réanalyse) : 4.96 millisecondes.
+
+Étape 3 : Examen des descripteurs de sécurité...
+La vérification des descripteurs de sécurité est terminée.
+ Durée de la phase (Vérification du descripteur de sécurité) : 30.05 millisecondes.
+État d'avancement : 30 de 30 effectué(s) ; Étape : 100% ; Total : 99% ; Heure de fin reste :   0:00:00 .. 
+                                                                                       
+                                                                                       
+  250818 fichiers de données traités.                                    
+
+ Durée de la phase (Vérification des attributs de données) : 0.05 millisecondes.
+CHKDSK vérifie le journal USN...
+État d'avancement : 2481 de 4821 effectué(s) ; Étape : 51% ; Total : 98% ; Heure de fin reste :   0:00:00 ...
+État d'avancement : 4821 de 4821 effectué(s) ; Étape : 100% ; Total : 99% ; Heure de fin reste :   0:00:00    
+                                                                                       
+                                                                                       
+  39500104 octets USN traités.                                                                      
+
+Vérification du journal USN terminée.
+ Durée de la phase (Vérification du journal USN) : 284.03 millisecondes.
+
+Windows a analysé le système de fichiers sans trouver de problème.
+Aucune autre action n'est requise.
+
+ 233783312 Ko d'espace disque au total.
+ 119900408 Ko dans 822461 fichiers.
+    516760 Ko dans 250819 index.
+         0 Ko dans des secteurs défectueux.
+   1286280 Ko utilisés par le système.
+     65536 Ko occupés par le fichier journal.
+ 112079864 Ko disponibles sur le disque.
+
+      4096 octets dans chaque unité d'allocation.
+  58445828 unités d'allocation au total sur le disque.
+  28019966 unités d'allocation disponibles sur le disque.
+Durée totale : 1.19 minutes (71846 ms).
+
+Model                                         Size InterfaceType
+-----                                         ---- -------------
+KINGSTON SA400S37240G                 240054796800 IDE          
+Generic USB SD Reader USB Device                   USB          
+Generic USB SM Reader USB Device                   USB          
+STM3750528AS                          750153761280 IDE          
+Generic USB MS Reader USB Device                   USB          
+Generic USB CF Reader USB Device                   USB          
+Seagate M3 Portable SCSI Disk Device 2000396321280 SCSI         
+
+
+
+Name                        AdapterRAM DriverVersion
+----                        ---------- -------------
+NVIDIA GeForce GTX 1060 6GB 4293918720 32.0.15.6636 
+
+
+
+FreePhysicalMemory TotalVisibleMemorySize
+------------------ ----------------------
+           4480032               16699972
+
+
+
+Configuration IP de Windows
+
+   Nom de l'hôte . . . . . . . . . . : DESKTOP-59T45UG
+   Suffixe DNS principal . . . . . . : 
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activé . . . . . . . . : Non
+   Proxy WINS activé . . . . . . . . : Non
+
+Carte Ethernet Ethernet :
+
+   Suffixe DNS propre à la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Adresse physique . . . . . . . . . . . : E0-D5-5E-2A-62-D9
+   DHCP activé. . . . . . . . . . . . . . : Oui
+   Configuration automatique activée. . . : Oui
+   Adresse IPv6. . . . . . . . . . . . . .: 2a01:e0a:de9:96d0:bbb8:4a95:91d4:3fa1(préféré) 
+   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:de9:96d0:cc75:ce3d:374a:65be(préféré) 
+   Adresse IPv6 de liaison locale. . . . .: fe80::4929:a882:c0a:4cef%9(préféré) 
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.121(préféré) 
+   Masque de sous-réseau. . . . . . . . . : 255.255.255.0
+   Bail obtenu. . . . . . . . . . . . . . : mercredi 19 février 2025 10:47:37
+   Bail expirant. . . . . . . . . . . . . : mercredi 19 février 2025 22:47:39
+   Passerelle par défaut. . . . . . . . . : fe80::3a07:16ff:fe0d:ddd0%9
+	                               192.168.1.254
+   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
+   IAID DHCPv6 . . . . . . . . . . . : 115397982
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-2F-1E-8C-BC-E0-D5-5E-2A-62-D9
+   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
+	                               fd0f:ee:b0::1
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activé
+
+Carte Ethernet Connexion réseau Bluetooth :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Adresse physique . . . . . . . . . . . : 8C-88-4B-07-15-57
+   DHCP activé. . . . . . . . . . . . . . : Oui
+   Configuration automatique activée. . . : Oui
+
+  Capacity Speed Manufacturer
+  -------- ----- ------------
+8589934592  2133 Unknown     
+8589934592  2133 Unknown     
+
+
+
+Nom de l'image                 PID Nom de la sessio Numéro de s Utilisation 
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         8 Ko
+System                           4 Services                   0     6 864 Ko
+Registry                       148 Services                   0    48 732 Ko
+smss.exe                       532 Services                   0       420 Ko
+csrss.exe                      756 Services                   0     3 892 Ko
+wininit.exe                    924 Services                   0     3 504 Ko
+services.exe                  1004 Services                   0     6 852 Ko
+lsass.exe                     1012 Services                   0    19 220 Ko
+svchost.exe                    852 Services                   0    20 700 Ko
+fontdrvhost.exe                724 Services                   0       884 Ko
+svchost.exe                   1132 Services                   0    13 708 Ko
+svchost.exe                   1188 Services                   0     6 728 Ko
+svchost.exe                   1376 Services                   0     2 264 Ko
+svchost.exe                   1384 Services                   0     4 656 Ko
+svchost.exe                   1388 Services                   0     7 680 Ko
+svchost.exe                   1540 Services                   0     5 448 Ko
+svchost.exe                   1548 Services                   0     4 644 Ko
+svchost.exe                   1664 Services                   0     2 804 Ko
+svchost.exe                   1672 Services                   0     9 320 Ko
+svchost.exe                   1780 Services                   0     5 268 Ko
+svchost.exe                   1840 Services                   0     8 548 Ko
+svchost.exe                   1896 Services                   0     7 700 Ko
+svchost.exe                   1952 Services                   0     3 596 Ko
+WUDFHost.exe                  1976 Services                   0     2 624 Ko
+svchost.exe                   1984 Services                   0     3 764 Ko
+svchost.exe                   1148 Services                   0     8 132 Ko
+NVDisplay.Container.exe       1972 Services                   0    19 068 Ko
+svchost.exe                   2076 Services                   0     6 056 Ko
+svchost.exe                   2196 Services                   0     6 020 Ko
+svchost.exe                   2224 Services                   0     4 628 Ko
+svchost.exe                   2232 Services                   0     2 912 Ko
+svchost.exe                   2344 Services                   0     2 312 Ko
+svchost.exe                   2352 Services                   0     7 060 Ko
+svchost.exe                   2360 Services                   0     3 868 Ko
+svchost.exe                   2476 Services                   0     4 664 Ko
+svchost.exe                   2524 Services                   0     5 092 Ko
+svchost.exe                   2532 Services                   0     6 704 Ko
+Memory Compression            2584 Services                   0    82 448 Ko
+svchost.exe                   2720 Services                   0    10 840 Ko
+svchost.exe                   2828 Services                   0     5 052 Ko
+svchost.exe                   2840 Services                   0     2 484 Ko
+svchost.exe                   2848 Services                   0     3 616 Ko
+svchost.exe                   2920 Services                   0     6 916 Ko
+spoolsv.exe                   3028 Services                   0     5 020 Ko
+svchost.exe                   2428 Services                   0    13 188 Ko
+svchost.exe                   3076 Services                   0    14 748 Ko
+svchost.exe                   3108 Services                   0     3 940 Ko
+svchost.exe                   3168 Services                   0     8 908 Ko
+svchost.exe                   3288 Services                   0     3 036 Ko
+svchost.exe                   3724 Services                   0    10 648 Ko
+svchost.exe                   3716 Services                   0     2 768 Ko
+svchost.exe                   3732 Services                   0    14 564 Ko
+svchost.exe                   3772 Services                   0    24 904 Ko
+svchost.exe                   3780 Services                   0     5 180 Ko
+svchost.exe                   3788 Services                   0     1 968 Ko
+svchost.exe                   3796 Services                   0    13 404 Ko
+svchost.exe                   3804 Services                   0     1 952 Ko
+RtkAudUService64.exe          3876 Services                   0     4 008 Ko
+nvcontainer.exe               3904 Services                   0    22 280 Ko
+MsMpEng.exe                   3992 Services                   0   296 564 Ko
+MpDefenderCoreService.exe     4000 Services                   0    11 664 Ko
+svchost.exe                   4040 Services                   0     1 820 Ko
+svchost.exe                   4192 Services                   0     4 280 Ko
+svchost.exe                   4216 Services                   0     5 644 Ko
+dllhost.exe                   4852 Services                   0     6 108 Ko
+svchost.exe                   5144 Services                   0     3 196 Ko
+SearchIndexer.exe             5516 Services                   0    47 856 Ko
+svchost.exe                   4836 Services                   0     3 964 Ko
+svchost.exe                   5892 Services                   0     5 032 Ko
+AggregatorHost.exe            6244 Services                   0     3 772 Ko
+svchost.exe                   7024 Services                   0     3 428 Ko
+svchost.exe                   7096 Services                   0    13 416 Ko
+svchost.exe                   7148 Services                   0    15 644 Ko
+NisSrv.exe                    7552 Services                   0    11 336 Ko
+BraveCrashHandler.exe         7760 Services                   0     1 416 Ko
+BraveCrashHandler64.exe       8016 Services                   0       256 Ko
+svchost.exe                   7912 Services                   0     3 684 Ko
+svchost.exe                   9476 Services                   0    14 032 Ko
+svchost.exe                   8180 Services                   0     6 884 Ko
+SecurityHealthService.exe    13208 Services                   0     7 536 Ko
+svchost.exe                  12484 Services                   0    12 184 Ko
+svchost.exe                   2824 Services                   0     6 708 Ko
+svchost.exe                   5612 Services                   0     5 236 Ko
+svchost.exe                   3988 Services                   0    10 120 Ko
+svchost.exe                  14020 Services                   0    10 000 Ko
+svchost.exe                   4728 Services                   0     5 820 Ko
+svchost.exe                   3696 Services                   0     3 496 Ko
+svchost.exe                  18188 Services                   0     5 892 Ko
+svchost.exe                   9620 Services                   0    11 132 Ko
+csrss.exe                     3228 Console                    3     6 284 Ko
+winlogon.exe                 21652 Console                    3    10 588 Ko
+fontdrvhost.exe               7104 Console                    3     8 764 Ko
+dwm.exe                      11512 Console                    3    53 804 Ko
+MoUsoCoreWorker.exe          11536 Services                   0    21 612 Ko
+NVDisplay.Container.exe      14968 Console                    3    28 372 Ko
+nvcontainer.exe               9064 Console                    3    39 592 Ko
+svchost.exe                  14804 Services                   0     5 624 Ko
+nvcontainer.exe              17032 Console                    3    25 556 Ko
+nvcontainer.exe               9968 Console                    3    63 788 Ko
+sihost.exe                    8852 Console                    3    26 960 Ko
+svchost.exe                  11828 Console                    3    28 960 Ko
+svchost.exe                  16368 Console                    3     8 292 Ko
+svchost.exe                  20196 Console                    3    33 812 Ko
+taskhostw.exe                21696 Console                    3    16 152 Ko
+taskhostw.exe                 4240 Console                    3    15 460 Ko
+explorer.exe                 16872 Console                    3   108 216 Ko
+svchost.exe                   1492 Services                   0     8 128 Ko
+ctfmon.exe                   11600 Console                    3    21 268 Ko
+nvsphelper64.exe             19152 Console                    3    11 276 Ko
+NVIDIA Overlay.exe           12924 Console                    3    27 620 Ko
+svchost.exe                  19908 Console                    3    23 376 Ko
+NVIDIA Overlay.exe            8604 Console                    3    16 436 Ko
+StartMenuExperienceHost.e     7220 Console                    3    56 816 Ko
+NVIDIA Overlay.exe           14952 Console                    3    18 244 Ko
+NVIDIA Overlay.exe           18768 Console                    3    25 416 Ko
+RuntimeBroker.exe            22448 Console                    3    36 908 Ko
+NVIDIA Overlay.exe           19460 Console                    3    26 388 Ko
+SearchApp.exe                 1444 Console                    3    89 804 Ko
+RuntimeBroker.exe            18884 Console                    3    43 292 Ko
+ShellExperienceHost.exe       9224 Console                    3    53 184 Ko
+RuntimeBroker.exe             9848 Console                    3    26 004 Ko
+LockApp.exe                   8616 Console                    3     8 208 Ko
+RuntimeBroker.exe            14720 Console                    3    31 324 Ko
+TextInputHost.exe            11636 Console                    3    19 268 Ko
+SecurityHealthSystray.exe     6128 Console                    3     8 808 Ko
+RtkAudUService64.exe          4232 Console                    3     8 456 Ko
+GoogleDriveFS.exe            20840 Console                    3    17 192 Ko
+crashpad_handler.exe         22248 Console                    3     6 168 Ko
+GoogleDriveFS.exe            21852 Console                    3    40 608 Ko
+GoogleDriveFS.exe             4476 Console                    3    20 796 Ko
+conhost.exe                   1464 Console                    3     9 656 Ko
+GoogleDriveFS.exe             6860 Console                    3    23 732 Ko
+GoogleDriveFS.exe             8216 Console                    3    31 836 Ko
+GoogleDriveFS.exe             8104 Console                    3    29 896 Ko
+GoogleDriveFS.exe             9640 Console                    3    31 324 Ko
+Discord.exe                  15376 Console                    3    77 832 Ko
+Discord.exe                   8352 Console                    3    31 776 Ko
+Discord.exe                   8504 Console                    3    40 564 Ko
+Discord.exe                  12316 Console                    3    23 420 Ko
+CompPkgSrv.exe               15888 Console                    3     8 156 Ko
+Discord.exe                  20948 Console                    3    87 592 Ko
+Discord.exe                  22164 Console                    3    17 604 Ko
+ApplicationFrameHost.exe     14204 Console                    3    28 912 Ko
+UserOOBEBroker.exe             784 Console                    3     9 932 Ko
+svchost.exe                  16264 Console                    3    19 256 Ko
+brave.exe                     1616 Console                    3   146 984 Ko
+brave.exe                    13564 Console                    3     7 072 Ko
+brave.exe                     8548 Console                    3   104 424 Ko
+brave.exe                    14128 Console                    3    37 032 Ko
+brave.exe                    20160 Console                    3    20 540 Ko
+brave.exe                     5532 Console                    3   205 104 Ko
+brave.exe                    13828 Console                    3   493 480 Ko
+dllhost.exe                  18384 Console                    3    13 412 Ko
+brave.exe                    15860 Console                    3    71 948 Ko
+brave.exe                    21088 Console                    3    21 892 Ko
+brave.exe                     3100 Console                    3    22 560 Ko
+studio64.exe                 14276 Console                    3 1 631 268 Ko
+fsnotifier.exe                6260 Console                    3     2 604 Ko
+conhost.exe                  14840 Console                    3     5 348 Ko
+brave.exe                    13348 Console                    3    14 372 Ko
+brave.exe                    14604 Console                    3    16 364 Ko
+adb.exe                      10304 Console                    3    10 568 Ko
+dart.exe                     17980 Console                    3   538 648 Ko
+conhost.exe                  12648 Console                    3     5 424 Ko
+dart.exe                     15696 Console                    3    18 508 Ko
+conhost.exe                  11348 Console                    3     5 416 Ko
+dart.exe                     20696 Console                    3    15 204 Ko
+conhost.exe                  15380 Console                    3     5 416 Ko
+cmd.exe                      18380 Console                    3     4 236 Ko
+conhost.exe                   8236 Console                    3     5 512 Ko
+dart.exe                     19808 Console                    3    44 328 Ko
+taskhostw.exe                12568 Console                    3    22 760 Ko
+svchost.exe                  13852 Services                   0     8 656 Ko
+brave.exe                     9220 Console                    3    16 668 Ko
+Code.exe                     11268 Console                    3   128 800 Ko
+Code.exe                     15500 Console                    3    28 220 Ko
+Code.exe                     20360 Console                    3    57 804 Ko
+Code.exe                     14324 Console                    3    42 056 Ko
+Code.exe                     15372 Console                    3   155 724 Ko
+Code.exe                      8116 Console                    3    77 232 Ko
+Code.exe                     17460 Console                    3    31 180 Ko
+Code.exe                     17972 Console                    3    43 348 Ko
+CodeSetup-stable-e54c774e    14688 Console                    3     8 048 Ko
+CodeSetup-stable-e54c774e     4188 Console                    3    12 512 Ko
+brave.exe                     5548 Console                    3    45 892 Ko
+svchost.exe                   6428 Services                   0    26 696 Ko
+brave.exe                    12624 Console                    3    43 624 Ko
+brave.exe                    13316 Console                    3    20 260 Ko
+java.exe                      1328 Console                    3   431 772 Ko
+conhost.exe                   5380 Console                    3     5 264 Ko
+SystemSettings.exe           10812 Console                    3     1 436 Ko
+RuntimeBroker.exe            19272 Console                    3    19 148 Ko
+pet.exe                       2452 Console                    3     5 188 Ko
+conhost.exe                   2296 Console                    3     5 668 Ko
+Code.exe                     10248 Console                    3    89 096 Ko
+conhost.exe                  11404 Console                    3     5 944 Ko
+powershell.exe               19284 Console                    3    61 620 Ko
+Code.exe                     21820 Console                    3    52 584 Ko
+OpenConsole.exe               5064 Console                    3     8 596 Ko
+powershell.exe                4760 Console                    3    62 424 Ko
+java.exe                     17792 Console                    3 3 853 696 Ko
+powershell.exe                6556 Console                    3    87 104 Ko
+conhost.exe                  13540 Console                    3    16 844 Ko
+Code.exe                      6948 Console                    3   224 120 Ko
+Code.exe                      4904 Console                    3    74 272 Ko
+Code.exe                     21952 Console                    3   154 648 Ko
+pet.exe                      15404 Console                    3     5 888 Ko
+conhost.exe                  14572 Console                    3    11 224 Ko
+conhost.exe                   1808 Console                    3     6 476 Ko
+powershell.exe                7432 Console                    3    74 192 Ko
+Code.exe                     16528 Console                    3   200 736 Ko
+java.exe                     19756 Console                    3 2 843 904 Ko
+SearchProtocolHost.exe       19004 Services                   0    13 820 Ko
+SearchFilterHost.exe         16276 Services                   0     7 612 Ko
+TrustedInstaller.exe         16328 Services                   0     7 816 Ko
+TiWorker.exe                 12360 Services                   0    11 092 Ko
+tasklist.exe                 13396 Console                    3     9 360 Ko
+WmiPrvSE.exe                 13136 Services                   0     9 844 Ko
+
+Nom de l'hôte:                              DESKTOP-59T45UG
+Nom du système d'exploitation:              Microsoft Windows 10 Famille
+Version du système:                         10.0.19045 N/A build 19045
+Fabricant du système d'exploitation:        Microsoft Corporation
+Configuration du système d'exploitation:    Station de travail autonome
+Type de build du système d'exploitation:    Multiprocessor Free
+Propriétaire enregistré:                    vcoutry@outlook.fr
+Organisation enregistrée:                   
+Identificateur de produit:                  00326-10000-00000-AA765
+Date d'installation originale:              19/01/2025, 11:32:43
+Heure de démarrage du système:              14/02/2025, 09:18:50
+Fabricant du système:                       Gigabyte Technology Co., Ltd.
+Modèle du système:                          AB350-Gaming
+Type du système:                            x64-based PC
+Processeur(s):                              1 processeur(s) installé(s).
+                                            [01] : AMD64 Family 23 Model 1 Stepping 1 AuthenticAMD ~3600 MHz
+Version du BIOS:                            American Megatrends International, LLC. F51g, 29/07/2022
+Répertoire Windows:                         C:\Windows
+Répertoire système:                         C:\Windows\system32
+Périphérique d'amorçage:                    \Device\HarddiskVolume1
+Option régionale du système:                fr;Français (France)
+Paramètres régionaux d'entrée:              fr;Français (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+Mémoire physique totale:                    16 309 Mo
+Mémoire physique disponible:                1 302 Mo
+Mémoire virtuelle : taille maximale:        56 501 Mo
+Mémoire virtuelle : disponible:             35 532 Mo
+Mémoire virtuelle : en cours d'utilisation: 20 969 Mo
+Emplacements des fichiers d'échange:        C:\pagefile.sys
+                                            D:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\DESKTOP-59T45UG
+Correctif(s):                               15 Corrections installées.
+                                            [01]: KB5049621
+                                            [02]: KB5049613
+                                            [03]: KB4562830
+                                            [04]: KB4570334
+                                            [05]: KB4577586
+                                            [06]: KB4580325
+                                            [07]: KB4586864
+                                            [08]: KB5011048
+                                            [09]: KB5011058
+                                            [10]: KB5015684
+                                            [11]: KB5020683
+                                            [12]: KB5033052
+                                            [13]: KB5051974
+                                            [14]: KB5050388
+                                            [15]: KB5050111
+Carte(s) réseau:                            2 carte(s) réseau installée(s).
+                                            [01]: Realtek PCIe GbE Family Controller
+                                                  Nom de la connexion : Ethernet
+                                                  DHCP activé :         Oui
+                                                  Serveur DHCP :        192.168.1.254
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.1.121
+                                                  [02]: fe80::4929:a882:c0a:4cef
+                                                  [03]: 2a01:e0a:de9:96d0:cc75:ce3d:374a:65be
+                                                  [04]: 2a01:e0a:de9:96d0:bbb8:4a95:91d4:3fa1
+                                            [02]: Bluetooth Device (Personal Area Network)
+                                                  Nom de la connexion : Connexion réseau Bluetooth
+                                                  État :                Support déconnecté
+Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ordinateur virtuel : Oui
+                                            Virtualisation activée dans le microprogramme : Oui
+                                            Traduction d'adresse de second niveau : Oui
+                                            Prévention de l'exécution des données disponible : Oui
+
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName                                                                                                                                                            
+-------  ------    -----      -----     ------     --  -- -----------                                                                                                                                                            
+   1044     228   393208     284532   1 843,75   3992   0 MsMpEng                                                                                                                                                                
+   4221       0      212       6968   1 008,94      4   0 System                                                                                                                                                                 
+   2062     227  2193848    1537300     772,92  14276   3 studio64                                                                                                                                                               
+   1740      33  3431784    3180964     772,50  19756   3 java                                                                                                                                                                   
+    664      87   849536     540192     640,27  13828   3 brave                                                                                                                                                                  
+    750      47   304924     140284     213,78   8548   3 brave                                                                                                                                                                  
+    143     397  1493240    1250152     193,00  17980   3 dart                                                                                                                                                                   
+    471      38   201456     196284     146,91   5532   3 brave                                                                                                                                                                  
+      0       0     2292     228376     138,56   2584   0 Memory Compression                                                                                                                                                     
+   1330      56   105964      55008     127,91  11512   3 dwm                                                                                                                                                                    
+   1022      97   345144      67220     127,19  20948   3 Discord                                                                                                                                                                
+   4146     134   326012     131564     115,69  16872   3 explorer                                                                                                                                                               
+   2821      70   163992     160792     114,88   1616   3 brave                                                                                                                                                                  
+    230      12     2872       7004     114,23   2352   0 svchost                                                                                                                                                                
+    803      75    48872      46560      72,09   5516   0 SearchIndexer                                                                                                                                                          
+    181      10    11040      14364      68,91   2428   0 svchost                                                                                                                                                                
+    515      45   216692     165176      57,50  15372   3 Code                                                                                                                                                                   
+   1398      22    11660      14156      51,16   1132   0 svchost                                                                                                                                                                
+    378      24   544748     365900      37,03   1328   3 java                                                                                                                                                                   
+    714      62    43160      66540      27,92   9968   3 nvcontainer                                                                                                                                                            
+
+
+
+DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalStatus SizeRemaining      Size
+----------- ------------ -------------- --------- ------------ ----------------- -------------      ----
+J           Valentin     NTFS           Fixed     Healthy      OK                    339.07 GB   1.82 TB
+                         FAT32          Fixed     Healthy      OK                      69.2 MB     96 MB
+C                        NTFS           Fixed     Healthy      OK                    101.69 GB 222.95 GB
+F                        Unknown        Removable Healthy      Unknown                     0 B       0 B
+G                        Unknown        Removable Healthy      Unknown                     0 B       0 B
+H                        Unknown        Removable Healthy      Unknown                     0 B       0 B
+I                        Unknown        Removable Healthy      Unknown                     0 B       0 B
+D                        NTFS           Fixed     Healthy      OK                    343.79 GB 698.63 GB
+                         NTFS           Fixed     Healthy      OK                     84.02 MB    512 MB
+
+
+

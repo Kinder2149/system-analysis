@@ -1,0 +1,2 @@
+CPU cores: 12
+CPU usage: 2.7%

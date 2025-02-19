@@ -57,18 +57,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
 
-## 📝 Licence
-
-
-# Créer un fichier LICENSE (MIT License par exemple)
-echo "MIT License
-
-Copyright (c) 2025 Kinder2149
-
-Permission is hereby granted, free of charge, to any person obtaining a copy..." > LICENSE
-
-git add LICENSE
-git commit -m "Add MIT License"
-git push
-
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.

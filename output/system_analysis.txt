@@ -1,0 +1,114 @@
+Analyse système - 2025-02-19 13:13:32.649194
+
+======================================== Informations Système ========================================
+Système: Windows
+Nom du PC: DESKTOP-59T45UG
+Release: 10
+Version: 10.0.19045
+Machine: AMD64
+Processeur: AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD
+======================================== Informations CPU ========================================
+Cœurs physiques: 6
+Total des threads: 12
+
+Fréquences CPU:
+Max: 3600.00Mhz
+Min: 0.00Mhz
+Actuelle: 3600.00Mhz
+
+Utilisation CPU par cœur:
+Core 0: 0.0%
+Core 1: 0.0%
+Core 2: 3.1%
+Core 3: 0.0%
+Core 4: 0.0%
+Core 5: 0.0%
+Core 6: 0.0%
+Core 7: 0.0%
+Core 8: 1.6%
+Core 9: 0.0%
+Core 10: 0.0%
+Core 11: 0.0%
+======================================== Informations Mémoire ========================================
+Total: 15.93GB
+Disponible: 4862.80MB
+Utilisé: 11.18GB
+Pourcentage: 70.2%
+======================================== Informations Disque ========================================
+
+Disque: C:\
+  Point de montage: C:\
+  Système de fichiers: NTFS
+  Total: 222.95GB
+  Utilisé: 121.89GB
+  Libre: 101.06GB
+  Pourcentage: 54.7%
+
+Disque: D:\
+  Point de montage: D:\
+  Système de fichiers: NTFS
+  Total: 698.63GB
+  Utilisé: 354.84GB
+  Libre: 343.79GB
+  Pourcentage: 50.8%
+
+Disque: E:\
+  Point de montage: E:\
+  Système de fichiers: FAT32
+  Total: 222.95GB
+  Utilisé: 126.95GB
+  Libre: 96.01GB
+  Pourcentage: 56.9%
+
+Disque: F:\
+  Point de montage: F:\
+  Système de fichiers: 
+  Erreur: [WinError 21] Le périphérique n’est pas prêt: 'F:\\'
+
+Disque: G:\
+  Point de montage: G:\
+  Système de fichiers: 
+  Erreur: [WinError 21] Le périphérique n’est pas prêt: 'G:\\'
+
+Disque: H:\
+  Point de montage: H:\
+  Système de fichiers: 
+  Erreur: [WinError 21] Le périphérique n’est pas prêt: 'H:\\'
+
+Disque: I:\
+  Point de montage: I:\
+  Système de fichiers: 
+  Erreur: [WinError 21] Le périphérique n’est pas prêt: 'I:\\'
+
+Disque: J:\
+  Point de montage: J:\
+  Système de fichiers: NTFS
+  Total: 1863.01GB
+  Utilisé: 1523.95GB
+  Libre: 339.07GB
+  Pourcentage: 81.8%
+======================================== Informations GPU ========================================
+GPU ID: 0
+Nom GPU: NVIDIA GeForce GTX 1060 6GB
+Charge GPU: 0.0%
+Mémoire GPU libre: 5367.0MB
+Mémoire GPU utilisée: 663.0MB
+Mémoire GPU totale: 6144.0MB
+Température: 40.0 °C
+======================================== Informations Réseau ========================================
+
+Interface: Ethernet
+  Adresse: E0-D5-5E-2A-62-D9
+  Adresse: 192.168.1.121
+  Adresse: 2a01:e0a:de9:96d0:bbb8:4a95:91d4:3fa1
+  Adresse: 2a01:e0a:de9:96d0:cc75:ce3d:374a:65be
+  Adresse: fe80::4929:a882:c0a:4cef
+
+Interface: Connexion réseau Bluetooth
+  Adresse: 8C-88-4B-07-15-57
+  Adresse: 169.254.227.107
+  Adresse: fe80::27d8:e5e9:965a:60f0
+
+Interface: Loopback Pseudo-Interface 1
+  Adresse: 127.0.0.1
+  Adresse: ::1

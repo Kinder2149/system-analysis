@@ -1,9 +1,5 @@
-# Dossier output
-output/
 
-# Fichiers générés
-*.txt
-!requirements.txt
+
 
 # Python
 __pycache__/
