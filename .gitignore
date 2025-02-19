@@ -1,5 +1,7 @@
-# Output files
+# Dossier output
 output/
+
+# Fichiers générés
 *.txt
 !requirements.txt
 
@@ -10,4 +12,4 @@ __pycache__/
 
 # Windows
 Thumbs.db
-*.exe
+desktop.ini

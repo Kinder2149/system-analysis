@@ -1,4 +1,20 @@
-# Créez un nouveau fichier system_info.ps1 avec ce contenu
+# Créer le dossier output s'il n'existe pas
+$outputDir = "output"
+if (-not (Test-Path $outputDir)) {
+    New-Item -ItemType Directory -Path $outputDir
+}
+
+# Fonction pour écrire dans un fichier
+function Write-ToFile {
+    param(
+        [string]$filename,
+        [string]$content
+    )
+    $fullPath = Join-Path $outputDir $filename
+    $content | Out-File -FilePath $fullPath -Encoding UTF8
+}
+
+# Récupérer les informations système
 $computerSystem = Get-CimInstance CIM_ComputerSystem
 $operatingSystem = Get-CimInstance CIM_OperatingSystem
 $processor = Get-CimInstance CIM_Processor
@@ -6,36 +22,46 @@ $physicalMemory = Get-CimInstance CIM_PhysicalMemory
 $videoController = Get-CimInstance Win32_VideoController
 $diskDrive = Get-CimInstance Win32_DiskDrive
 
-Write-Host "=== Informations Système ==="
-Write-Host "Nom de l'ordinateur: $($computerSystem.Name)"
-Write-Host "Fabricant: $($computerSystem.Manufacturer)"
-Write-Host "Modèle: $($computerSystem.Model)"
+# Créer le rapport principal
+$report = @"
+=== Informations Système ===
+Nom de l'ordinateur: $($computerSystem.Name)
+Fabricant: $($computerSystem.Manufacturer)
+Modèle: $($computerSystem.Model)
 
-Write-Host "`n=== Système d'exploitation ==="
-Write-Host "OS: $($operatingSystem.Caption)"
-Write-Host "Version: $($operatingSystem.Version)"
-Write-Host "Architecture: $($operatingSystem.OSArchitecture)"
+=== Système d'exploitation ===
+OS: $($operatingSystem.Caption)
+Version: $($operatingSystem.Version)
+Architecture: $($operatingSystem.OSArchitecture)
 
-Write-Host "`n=== Processeur ==="
-Write-Host "CPU: $($processor.Name)"
-Write-Host "Nombre de coeurs: $($processor.NumberOfCores)"
-Write-Host "Threads logiques: $($processor.NumberOfLogicalProcessors)"
+=== Processeur ===
+CPU: $($processor.Name)
+Nombre de coeurs: $($processor.NumberOfCores)
+Threads logiques: $($processor.NumberOfLogicalProcessors)
 
-Write-Host "`n=== Mémoire RAM ==="
-$totalRAM = 0
-foreach ($memory in $physicalMemory) {
-    $totalRAM += $memory.Capacity
-}
-Write-Host "RAM Totale: $([math]::Round($totalRAM/1GB, 2)) GB"
+=== Mémoire RAM ===
+RAM Totale: $([math]::Round($computerSystem.TotalPhysicalMemory/1GB, 2)) GB
 
-Write-Host "`n=== Carte Graphique ==="
-foreach ($graphics in $videoController) {
-    Write-Host "Nom: $($graphics.Name)"
-    Write-Host "RAM Video: $([math]::Round($graphics.AdapterRAM/1GB, 2)) GB"
-}
+=== Carte Graphique ===
+$($videoController.Name)
+RAM Video: $([math]::Round($videoController.AdapterRAM/1GB, 2)) GB
 
-Write-Host "`n=== Disques ==="
+=== Disques ===
+"@
+
 foreach ($disk in $diskDrive) {
-    Write-Host "Disque: $($disk.Model)"
-    Write-Host "Capacite: $([math]::Round($disk.Size/1GB, 2)) GB"
+    $report += @"
+
+Disque: $($disk.Model)
+Capacité: $([math]::Round($disk.Size/1GB, 2)) GB
+"@
 }
+
+# Écrire les rapports dans des fichiers séparés
+Write-ToFile -filename "system_info_detailed.txt" -content $report
+Write-ToFile -filename "cpu_info_detailed.txt" -content (Get-CimInstance Win32_Processor | Format-List *)
+Write-ToFile -filename "memory_info_detailed.txt" -content (Get-CimInstance Win32_PhysicalMemory | Format-List *)
+Write-ToFile -filename "disk_info_detailed.txt" -content (Get-CimInstance Win32_DiskDrive | Format-List *)
+
+# Afficher le rapport dans la console
+Write-Host $report
